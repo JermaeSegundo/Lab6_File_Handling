@@ -1,0 +1,5 @@
+Student: Segundo
+Student ID: TUPM-26-1952
+Seed digit: 2
+ID sum: 25
+Verification value: 177
