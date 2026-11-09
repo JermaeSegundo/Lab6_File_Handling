@@ -1,0 +1,12 @@
+{
+    "student_name": "Segundo",
+    "student_id": "TUPM-26-1952",
+    "operating_system": "Android",
+    "behavior_class": 3,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_behavior": 111,
+    "average_battery_drain": 1521.69,
+    "average_data_usage": 820.26,
+    "count_verification": true
+}

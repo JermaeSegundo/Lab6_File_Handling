@@ -1,0 +1,34 @@
+CYBERSECURITY INCIDENT REPORT
+========================================
+
+Student: Segundo
+Student ID: TUPM-26-1952
+Target Year: 2017
+
+Total Dataset Records: 3000
+Incidents in Target Year: 319
+
+INCIDENT COUNTS PER ATTACK TYPE
+DDoS: 58
+Malware: 46
+Man-in-the-Middle: 58
+Phishing: 64
+Ransomware: 44
+SQL Injection: 49
+
+FINANCIAL SUMMARY
+Total Loss: 16261.68 million USD
+Average Loss: 50.98 million USD
+
+FIVE COSTLIEST INCIDENTS
+1. SQL Injection - 99.99 million USD
+2. Malware - 99.22 million USD
+3. SQL Injection - 98.75 million USD
+4. DDoS - 98.73 million USD
+5. DDoS - 98.61 million USD
+
+OUTPUT FILES
+Filtered CSV: c:\Users\jerma\Lab6_File_Handling_Additional_Exercises\Additional_Excercise_3\data\output\filtered_cybersecurity_incidents.csv
+JSON Summary: c:\Users\jerma\Lab6_File_Handling_Additional_Exercises\Additional_Excercise_3\data\output\cybersecurity_summary.json
+JSON Backup: c:\Users\jerma\Lab6_File_Handling_Additional_Exercises\Additional_Excercise_3\data\backup\cybersecurity_summary_backup.json
+Report: c:\Users\jerma\Lab6_File_Handling_Additional_Exercises\Additional_Excercise_3\data\output\cybersecurity_report.txt

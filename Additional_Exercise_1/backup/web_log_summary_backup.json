@@ -1,0 +1,24 @@
+{
+    "student_name": "Segundo",
+    "student_id": "TUPM-26-1952",
+    "records_processed": 1025,
+    "target_status_class": "4xx",
+    "matching_records": 5,
+    "count_per_status_code": {
+        "200": 847,
+        "302": 144,
+        "304": 21,
+        "206": 8,
+        "404": 5
+    },
+    "five_most_requested_urls": [
+        {
+            "url": "GET /robots.txt HTTP/1.1",
+            "count": 4
+        },
+        {
+            "url": "GET /favicon.ico HTTP/1.1",
+            "count": 1
+        }
+    ]
+}

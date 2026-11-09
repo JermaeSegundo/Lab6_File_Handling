@@ -1,0 +1,51 @@
+{
+    "student": "Segundo",
+    "student_id": "TUPM-26-1952",
+    "target_year": 2017,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 319,
+    "count_per_attack_type": {
+        "Man-in-the-Middle": 58,
+        "DDoS": 58,
+        "Phishing": 64,
+        "SQL Injection": 49,
+        "Malware": 46,
+        "Ransomware": 44
+    },
+    "total_financial_loss_millions": 16261.68,
+    "average_financial_loss_millions": 50.98,
+    "valid_financial_records": 319,
+    "five_costliest_incidents": [
+        {
+            "rank": 1,
+            "year": "2017",
+            "attack_type": "SQL Injection",
+            "financial_loss_millions": 99.99
+        },
+        {
+            "rank": 2,
+            "year": "2017",
+            "attack_type": "Malware",
+            "financial_loss_millions": 99.22
+        },
+        {
+            "rank": 3,
+            "year": "2017",
+            "attack_type": "SQL Injection",
+            "financial_loss_millions": 98.75
+        },
+        {
+            "rank": 4,
+            "year": "2017",
+            "attack_type": "DDoS",
+            "financial_loss_millions": 98.73
+        },
+        {
+            "rank": 5,
+            "year": "2017",
+            "attack_type": "DDoS",
+            "financial_loss_millions": 98.61
+        }
+    ],
+    "filtered_csv": "c:\\Users\\jerma\\Lab6_File_Handling_Additional_Exercises\\Additional_Excercise_3\\data\\output\\filtered_cybersecurity_incidents.csv"
+}
